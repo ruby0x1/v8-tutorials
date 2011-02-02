@@ -1,9 +1,7 @@
-
 Disclaimer : 
 
 	The c++ in these examples is aiming to be readable, helpful and simple.
-	I may or may not have broken rules of c++ syntax or methodology but then again
-	it is generally a personal issue and not an issue of mine. If there are improvements to	
+	I may or may not have broken rules of c++ syntax or methodology. If there are improvements to	
 	be made by all means - send them to me and i will amend the code and posts. 
 
 	The goal is the see the least possible code to understand what it is doing, not to
@@ -44,7 +42,7 @@ Licence etc:
 
 I hope these help you, as i wish i had something like this when i first got v8 :)
 
-FuzzYspo0N | Sven Bergström 
+FuzzYspo0N | Sven Bergstrï¿½m 
 
 http://blog.centrc.net
 www.twitter.com/FuzzYspo0N

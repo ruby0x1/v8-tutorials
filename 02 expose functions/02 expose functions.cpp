@@ -1,5 +1,3 @@
-
-
     /*
 
         02 - Exposing global functions in v8.
@@ -17,7 +15,7 @@
         Why?
             Written for the #altdevblog www.altdevblogaday.com group.
         Who? 
-            Written by Sven Bergström ( FuzzYspo0N ).
+            Written by Sven Bergstrï¿½m ( FuzzYspo0N ).
 
         
     Discussion :
@@ -31,7 +29,7 @@
         mentality, concepts and structure of the v8 engine and how to use it based
         on the journey that I have travelled with the engine.
 
-        For the full post and more info - see the following link -
+        For the full post and more info - see the following link - http://altdevblogaday.com/change-is-as-good-as-a-holiday-an-introductio
 
 
     */

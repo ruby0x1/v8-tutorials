@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 cli script", "01 cli script\01 cli script.vcproj", "{3CC2EC44-62A5-4E63-B8C9-E5149563DF0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 expose functions", "02 expose functions\02 expose functions.vcproj", "{A6E36283-0DF8-46B6-99F3-42B4F6ECF224}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 expose objects", "03 expose objects\03 expose objects.vcproj", "{00497800-737C-4C8D-BB2D-EFBDBF6E541B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 expose types", "04 expose types\04 expose types.vcproj", "{A0A99548-50FD-4452-AB25-0F6333BB7CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC2EC44-62A5-4E63-B8C9-E5149563DF0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CC2EC44-62A5-4E63-B8C9-E5149563DF0D}.Debug|Win32.Build.0 = Debug|Win32
+		{3CC2EC44-62A5-4E63-B8C9-E5149563DF0D}.Release|Win32.ActiveCfg = Release|Win32
+		{3CC2EC44-62A5-4E63-B8C9-E5149563DF0D}.Release|Win32.Build.0 = Release|Win32
+		{A6E36283-0DF8-46B6-99F3-42B4F6ECF224}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6E36283-0DF8-46B6-99F3-42B4F6ECF224}.Debug|Win32.Build.0 = Debug|Win32
+		{A6E36283-0DF8-46B6-99F3-42B4F6ECF224}.Release|Win32.ActiveCfg = Release|Win32
+		{A6E36283-0DF8-46B6-99F3-42B4F6ECF224}.Release|Win32.Build.0 = Release|Win32
+		{00497800-737C-4C8D-BB2D-EFBDBF6E541B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00497800-737C-4C8D-BB2D-EFBDBF6E541B}.Debug|Win32.Build.0 = Debug|Win32
+		{00497800-737C-4C8D-BB2D-EFBDBF6E541B}.Release|Win32.ActiveCfg = Release|Win32
+		{00497800-737C-4C8D-BB2D-EFBDBF6E541B}.Release|Win32.Build.0 = Release|Win32
+		{A0A99548-50FD-4452-AB25-0F6333BB7CB4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0A99548-50FD-4452-AB25-0F6333BB7CB4}.Debug|Win32.Build.0 = Debug|Win32
+		{A0A99548-50FD-4452-AB25-0F6333BB7CB4}.Release|Win32.ActiveCfg = Release|Win32
+		{A0A99548-50FD-4452-AB25-0F6333BB7CB4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -42,10 +42,10 @@ Licence etc:
 
 I hope these help you, as i wish i had something like this when i first got v8 :)
 
-FuzzYspo0N | Sven Bergstr�m 
+FuzzYspo0N | Sven Bergström 
 
-http://blog.centrc.net
-www.twitter.com/FuzzYspo0N
+http://underscorediscovery.com
+www.twitter.com/___discovery
 
 
 	
